@@ -202,7 +202,7 @@ Business Value: Measures customer loyalty, lifecycle length, and repeat purchasi
     order by c.cohort_month;
 ```
 
-12. ** Question: Calculate the net profit (total_sale - cogs) and the exact net profit margin percentage for each product category. Filter the results to only show demographics (gender and age groups divided into brackets: Under 30, 30-50, Over 50) that generate an average profit margin higher than 40%.
+12. **Question: Calculate the net profit (total_sale - cogs) and the exact net profit margin percentage for each product category. Filter the results to only show demographics (gender and age groups divided into brackets: Under 30, 30-50, Over 50) that generate an average profit margin higher than 40%.
 Business Value: Helps marketing teams target advertising spend on high-yielding demographic pockets rather than broad categories.**:
 ```sql
 SELECT 
@@ -224,7 +224,7 @@ ORDER BY net_profit_mergin DESC
 ;
 ```
 
-13. ** Question: Create a time-series report showing the total revenue generated for each calendar month, alongside the previous month's revenue and the strict percentage growth rate compared to that previous month.
+13. **Question: Create a time-series report showing the total revenue generated for each calendar month, alongside the previous month's revenue and the strict percentage growth rate compared to that previous month.
 Business Value: Standard executive KPI used to track business health trends and seasonal demand shifts.**:
 ```sql
 with mr as(
@@ -241,7 +241,7 @@ select YearMonth,
     order by YearMonth;
 ```
 
-14. ** Question: Divide the 24-hour day into operational blocks (Morning: 06:00-11:59, Afternoon: 12:00-16:59, Evening: 17:00-21:59, Night: 22:00-05:59). For each category, determine which time block yields the highest average order value (AOV).
+14. **Question: Divide the 24-hour day into operational blocks (Morning: 06:00-11:59, Afternoon: 12:00-16:59, Evening: 17:00-21:59, Night: 22:00-05:59). For each category, determine which time block yields the highest average order value (AOV).
 Business Value: Optimizes staffing schedules, store operational hours, and lightning-deal promotional timing.**:
 ```sql
 with sales_n as(
