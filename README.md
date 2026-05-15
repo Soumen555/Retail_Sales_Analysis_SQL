@@ -323,9 +323,9 @@ The analytical framework is engineered to accelerate business growth across four
    Resource Allocation: Informs precise store staffing, inventory replenishment, and time-sensitive promotions.
    Growth Impact: Minimizes overhead costs during dead hours while capturing peak-hour revenue potential.
 
-4.Macro Financial Health & Forecasting
-    MoM Growth Metrics: Tracks Month-over-Month revenue fluctuations and year-over-year seasonal peaks.
-    Strategic Planning: Establishes key performance indicator (KPI) baselines for executive financial reviews.
-    Growth Impact: Empowers executives to forecast cash flows, manage supply chains, and set realistic growth targets.
+4. Macro Financial Health & Forecasting
+   MoM Growth Metrics: Tracks Month-over-Month revenue fluctuations and year-over-year seasonal peaks.
+   Strategic Planning: Establishes key performance indicator (KPI) baselines for executive financial reviews.
+   Growth Impact: Empowers executives to forecast cash flows, manage supply chains, and set realistic growth targets.
 
 
