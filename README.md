@@ -4,7 +4,7 @@
 
 **Project Title**: Retail Sales Analysis   
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+This project delivers an end-to-end retail business intelligence pipeline that cleans, aggregates, and transforms raw transactional logs into actionable operational insights. By executing optimized, production-grade MySQL queries on schema fields like total_sale, cogs, and sale_date, the project bypasses data quality traps to calculate core corporate indicators including customer cohort retention metrics, month-over-month revenue growth, and high-margin demographic micro-segments. Ultimately, this analytics framework translates transactional records into strategic recommendations for retail performance management, identifying optimization windows for time-block marketing campaigns and isolated high-value account segments.
 
 ## Objectives
 
